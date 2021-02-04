@@ -1,0 +1,98 @@
+#designedby{
+    font-size:20px;
+    color: #D35A0E ;
+    text-align: center;
+    margin-top:15px; 
+    font-family: 'Oswald', sans-serif;
+    position: fixed;
+    bottom: 12%;
+    right: 18%;
+}
+.mepic{
+    height:250px;
+    width: 250px;
+    border-radius: 100%;
+    position: fixed;
+    bottom: 40%;
+    left: 15%;
+}
+.image-main{
+    text-align: left;
+    margin-top: 15%;
+    margin-left: 15%;  
+    margin-right: 0%;  
+}
+
+.main-menu{ /*hrefy na stronie głównej*/
+    color: #D35A0E ;
+    text-align: right;
+     /*margin-right: 18%; */
+    font-family: 'Oswald', sans-serif;
+    font-size:45px;
+    position: fixed;
+    bottom: 55%;
+    right: 18%;
+    
+} 
+
+
+.menu-options{
+    text-decoration: none;
+
+}
+a.menu-options{
+    text-decoration: none;
+}
+a,p{
+    color: #D35A0E; 
+    margin: 1px;
+   /* margin-top:25px; */
+   /* padding: 15em; */
+   text-align: center;
+   font-family: 'Oswald', sans-serif;
+   text-decoration: none;
+}
+h3 {
+    color: #D35A0E; 
+    margin: 1px;
+    margin-top: 1px;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size:30px;
+}
+body{
+    background-color:#F3E4DA ;
+    text-decoration: none;
+}
+.post{
+    border: 2px solid #F3E4DA;
+    margin: 12%;
+    margin-top:1px;
+}
+.div-color-switch{ /*div z emotkami do zmiany stylu - do wyśrodkowania i rozmiarów*/
+    text-align: center;
+    /*margin-top:115px;*/
+    position: fixed;
+    bottom: 20%;
+    right: 18%;
+}
+a.color-switch{
+    text-decoration: none;
+    margin: 1px;
+    text-align: center;
+    font-size:50px;
+}
+.gallery-category{
+    float: right;
+    text-align:right; 
+    width: 50%;
+    height: 50%;
+    display: block;
+}
+.gallery-cat{
+    text-align:center;
+    float: center;
+}
+#gallery-pagename{
+
+}

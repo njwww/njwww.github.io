@@ -1,0 +1,36 @@
+body{
+    /*background-color: #F3E4DA;*/
+    background-color: red;
+
+}
+.to-home
+ {
+    color: #D35A0E; 
+    margin: 1px;
+    font-family: 'Oswald', sans-serif;
+    font-size:25px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.g-gal-title{ /* "subgallery " title */
+    text-align: center; 
+    margin-top:5%;
+    color: #D35A0E; 
+    font-size: 80px;
+    font-family: 'Oswald', sans-serif;
+}
+.gallery-title{
+    float: center;
+    width: 30%;
+    height: 30%;
+    margin-left: 10%;
+    margin-bottom: 5%;
+}
+.images{
+    text-align:center;
+}
+.gallery-cat1{
+    width: 50%;
+    height: 50%;
+}
